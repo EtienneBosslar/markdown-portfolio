@@ -1,0 +1,3 @@
+- I hate cats :cat:
+- I like dogs :dog:
+- I love quokas :sparkles:
